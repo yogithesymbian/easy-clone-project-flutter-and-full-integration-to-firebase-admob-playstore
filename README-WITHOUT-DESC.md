@@ -38,7 +38,7 @@ What is the two-letter country code for this unit?
 6. Find `key.properties` and replace with the package name `your_package_name_here.jks`
 
 7. Copy sha1 and sha-256 to firebase.
-8. Generate icon in `appicon.co` and background `in canva`
+8. Generate icon on `https://appicon.co` and background `canva`
 
 9. create admob, change key on `AndroidManifiest.xml` and `ad_helper.dart`
 

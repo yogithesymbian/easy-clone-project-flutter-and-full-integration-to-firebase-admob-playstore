@@ -61,7 +61,7 @@ What is the two-letter country code for this unit?
 TIP : `ctrl + p` on <b>VSCode</b> , and paste the keyword.
 
 7. Copy sha1 and sha-256 to firebase.
-8. Generate icon in `appicon.co` and background `in canva`
+8. Generate icon on `https://appicon.co` and background `canva`
 
 <b>DESC</b> : our scenario has on setup first on first.
 
